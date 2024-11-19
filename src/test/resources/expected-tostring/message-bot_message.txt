@@ -1,0 +1,1 @@
+Message(1623352890.342300,C2A78F673,None,,Some(B7E6157D2),None,None,Some(Vector(Attachment(Some(Jenkins Build # 19369 - SUCCESS),None,Some(729FCF),None,None,None,None,None,None,None,Some(Vector(AttachmentField(,Jenkins Build # 19369 - SUCCESS,false))),None,None,None,Some(Vector(pretext, text, fields)),None,None,None))),Some(bot_message))

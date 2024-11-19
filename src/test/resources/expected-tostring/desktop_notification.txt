@@ -1,0 +1,1 @@
+DesktopNotification(desktop_notification,Workspace name,Person I am talking to,1623181585.000200,hello,D51F4BF60,slack://channel?id=D51F4BF60&message=1623181585000200&team=TAB59CBC6,Some(https://example.com),Some Name,None,false,1623181586.000100)
